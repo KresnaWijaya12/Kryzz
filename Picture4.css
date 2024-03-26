@@ -1,0 +1,11 @@
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    width: 30%; /* Sesuaikan lebar gambar sesuai kebutuhan */
+    margin: 5px; /* Sesuaikan margin antara gambar sesuai kebutuhan */
+    border: 1px solid #ccc; /* Tambahkan border jika diinginkan */
+}
